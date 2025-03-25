@@ -17,7 +17,7 @@ Requirement
 - libavformat-dev
 - libssl-dev
 
-PIP required library, on requirements.txt
+PIP required library, on `requirements.txt`
 
 You need to obtain cookies.txt using firefox with `cookies.txt` extension, 
 - install the `cookies.txt` extension in firefox browser
